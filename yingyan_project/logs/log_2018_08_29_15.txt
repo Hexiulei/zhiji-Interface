@@ -1,0 +1,12 @@
+2018-08-29 15:08:09,558 - INFO: sadasda1
+2018-08-29 15:08:09,565 - DEBUG: Starting new HTTP connection (1): app.91ylian.com:80
+2018-08-29 15:08:09,804 - DEBUG: http://app.91ylian.com:80 "POST /auth/login HTTP/1.1" 200 None
+2018-08-29 15:08:09,806 - INFO: 终于可以啦啦啦：
+2018-08-29 15:38:03,698 - INFO: sadasda1
+2018-08-29 15:38:03,705 - DEBUG: Starting new HTTP connection (1): app.91ylian.com:80
+2018-08-29 15:38:03,955 - DEBUG: http://app.91ylian.com:80 "POST /auth/login HTTP/1.1" 200 None
+2018-08-29 15:38:03,956 - INFO: 终于可以啦啦啦：
+2018-08-29 15:57:01,574 - INFO: sadasda1
+2018-08-29 15:57:01,583 - DEBUG: Starting new HTTP connection (1): app.91ylian.com:80
+2018-08-29 15:57:01,845 - DEBUG: http://app.91ylian.com:80 "POST /auth/login HTTP/1.1" 200 None
+2018-08-29 15:57:01,850 - INFO: 终于可以啦啦啦：
